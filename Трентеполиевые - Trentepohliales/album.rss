@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Трентеполиевые - Trentepohliales</title>
+   	<link>..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description>Trentepohliales is an order of Ulvophyceaen green algae.</description>
+        <jalbum:absolutePath>https://herbarium.info/algaerium.info/%D0%A2%D1%80%D0%B5%D0%BD%D1%82%D0%B5%D0%BF%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D1%8B%D0%B5%20-%20Trentepohliales/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://herbarium.info/algaerium.info/%D0%A2%D1%80%D0%B5%D0%BD%D1%82%D0%B5%D0%BF%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D1%8B%D0%B5%20-%20Trentepohliales/%D0%A2%D1%80%D0%B5%D0%BD%D1%82%D0%B5%D0%BF%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D1%8B%D0%B5%20-%20Trentepohliaceae/album.rss" title="Трентеполиевые - Trentepohliaceae" thumbnail="https://herbarium.info/algaerium.info/%D0%A2%D1%80%D0%B5%D0%BD%D1%82%D0%B5%D0%BF%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D1%8B%D0%B5%20-%20Trentepohliales/%D0%A2%D1%80%D0%B5%D0%BD%D1%82%D0%B5%D0%BF%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D1%8B%D0%B5%20-%20Trentepohliaceae/%D0%A2%D1%80%D0%B5%D0%BD%D1%82%D0%B5%D0%BF%D0%BE%D0%BB%D0%B8%D1%8F%20-%20Trentepohlia%20sp/thumbs/fungi-0000970.webp" thumbnailWidth="512" thumbnailHeight="410" />
+    </channel>
+</rss>

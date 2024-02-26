@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Кладофоровые - Cladophoraceae</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description>Cladophoraceae are a family of green algae in the order the Cladophorales. This family includes notably the genus Chaetomorpha which has a few members used in saltwater aquariums.</description>
+        <jalbum:absolutePath>https://herbarium.info/algaerium.info/%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D1%84%D0%BE%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Cladophorales/%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D1%84%D0%BE%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Cladophoraceae/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://herbarium.info/algaerium.info/%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D1%84%D0%BE%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Cladophorales/%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D1%84%D0%BE%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Cladophoraceae/%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D1%84%D0%BE%D1%80%D0%B0%20-%20Cladophora%20sp/album.rss" title="Кладофора - Cladophora sp" thumbnail="https://herbarium.info/algaerium.info/%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D1%84%D0%BE%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Cladophorales/%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D1%84%D0%BE%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Cladophoraceae/%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D1%84%D0%BE%D1%80%D0%B0%20-%20Cladophora%20sp/thumbs/DSC00089.webp" thumbnailWidth="512" thumbnailHeight="410" />
+    </channel>
+</rss>

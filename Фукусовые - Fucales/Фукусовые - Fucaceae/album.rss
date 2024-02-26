@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Фукусовые - Fucaceae</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description>The Fucaceae are a family of brown algae, containing six genera: Ascophyllum, Fucus, Hesperophycus, Pelvetia, Pelvetiopsis, Silvetia.</description>
+        <jalbum:absolutePath>https://herbarium.info/algaerium.info/%D0%A4%D1%83%D0%BA%D1%83%D1%81%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Fucales/%D0%A4%D1%83%D0%BA%D1%83%D1%81%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Fucaceae/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://herbarium.info/algaerium.info/%D0%A4%D1%83%D0%BA%D1%83%D1%81%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Fucales/%D0%A4%D1%83%D0%BA%D1%83%D1%81%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Fucaceae/%D0%A4%D1%83%D0%BA%D1%83%D1%81%20%D0%BF%D1%83%D0%B7%D1%8B%D1%80%D1%87%D0%B0%D1%82%D1%8B%D0%B9%20-%20Fucus%20vesiculosus/album.rss" title="Фукус пузырчатый - Fucus vesiculosus" thumbnail="https://herbarium.info/algaerium.info/%D0%A4%D1%83%D0%BA%D1%83%D1%81%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Fucales/%D0%A4%D1%83%D0%BA%D1%83%D1%81%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Fucaceae/%D0%A4%D1%83%D0%BA%D1%83%D1%81%20%D0%BF%D1%83%D0%B7%D1%8B%D1%80%D1%87%D0%B0%D1%82%D1%8B%D0%B9%20-%20Fucus%20vesiculosus/thumbs/0DSC00055.webp" thumbnailWidth="512" thumbnailHeight="410" />
+    </channel>
+</rss>
